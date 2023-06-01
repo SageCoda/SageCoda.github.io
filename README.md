@@ -1,4 +1,4 @@
 # SageCoda.github.io
-ethical phisishing site example
-unintede for malicious use
+ethical phishing site example
+uninteded for malicious use
 only demonstrative
